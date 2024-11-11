@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sachin, and I'm a eager learner currently located in the USA. <br>I wish to learn and develop programs to ease and please.</h2>
+<h2 align="left">Hi 👋! My name is Sachin, and I'm a eager learnercurrently located in the USA. <br>I wish to learn and develop programs to ease and please.</h2>
 
 ###
 
@@ -51,5 +51,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/sachinpandit140/sachinpandit140/output/snake.svg" alt="Snake animation" />
 
 ###
